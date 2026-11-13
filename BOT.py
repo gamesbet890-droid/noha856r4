@@ -18,7 +18,7 @@ WELCOME_CAPTION = (
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Action buttons
     keyboard = [
-        [InlineKeyboardButton("🎮 አሁኑኑ ተመዝገብ (Register)", url="https://t.me/LuckyFlip_gamebot")],
+        [InlineKeyboardButton("🎮 አሁኑኑ ተመዝገብ (Register)", url="https://gamesbet890-droid.github.io/noha856/re%20newed%20deposite")],
         [InlineKeyboardButton("🎁 ቦነስ ውሰድ (Claim Bonus)", callback_data="claim_bonus")]
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
